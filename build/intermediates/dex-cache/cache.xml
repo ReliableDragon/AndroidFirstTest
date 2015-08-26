@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Gabe\Documents\AndroidStuff\BB Repository\Gabe_First_Test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Gabe\Documents\AndroidStuff\BB Repository\Gabe_First_Test\app\build\intermediates\pre-dexed\debug\classes-fd4905de09afd7334c48736f437ed5218c5ce04d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gabe\AndroidStudioProjects\Gabe_First_Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Gabe\AndroidStudioProjects\Gabe_First_Test\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1e41868c0abfacb90017b0ae6236ff35c41f73e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gabe\Documents\AndroidStuff\BB Repository\Gabe_First_Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Gabe\Documents\AndroidStuff\BB Repository\Gabe_First_Test\app\build\intermediates\pre-dexed\debug\classes-d036e491682713133d2e9fef3d2083faccb5caf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gabe\Documents\AndroidStuff\BB Repository\Gabe_First_Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Gabe\Documents\AndroidStuff\BB Repository\Gabe_First_Test\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c5b3d64dae661c0e70ecf5c6b8edacd408ae4cca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gabe\AndroidStudioProjects\Gabe_First_Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Gabe\AndroidStudioProjects\Gabe_First_Test\app\build\intermediates\pre-dexed\debug\classes-5747ee04523b162da74024f30d8d9d38132854ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gabe\Documents\AndroidStuff\BB Repository\Gabe_First_Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Gabe\Documents\AndroidStuff\BB Repository\Gabe_First_Test\app\build\intermediates\pre-dexed\debug\classes-71ffc0911e8faf91165e4a579a5ceedda145feb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gabe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Gabe\AndroidStudioProjects\Gabe_First_Test\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-be52cb087f4f93f97abf8f50b4c328280578c0a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gabe\AndroidStudioProjects\Gabe_First_Test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Gabe\AndroidStudioProjects\Gabe_First_Test\app\build\intermediates\pre-dexed\debug\classes-37e019334f39d26d624bddaa154e059e9280709d.jar" />
+    </item>
+
+</items>
